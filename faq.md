@@ -16,10 +16,11 @@ micro_nav: false
 
 ## What is the grading breakdown?
 Below is the breakdown of the class grade:
- * 40%: Final project (broken into proposal, milestone, final report, final video, and meeting attendance)
+ * 40%: Final project (broken into proposal, milestone, final report and final video)
  * 25%: Midterm
  * 25%: Programming assignment
- * 10%: Quizzes
+ * 8%: Quizzes
+ * 2%: Meeting Attendance
 
 ## Will there be a poster session?
 No, there will not be a poster session this quarter. We are looking into other alternatives for a remote poster session though.

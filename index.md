@@ -52,10 +52,11 @@ Here's more information about the class grade:
 #### Breakdown
 
 Below is the breakdown of the class grade:
- * 40%: Final project (broken into proposal, milestone, final report, final video, and meeting attendance)
+ * 40%: Final project (broken into proposal, milestone, final report and final video)
  * 25%: Midterm
  * 25%: Programming assignment
- * 10%: Quizzes
+ * 8%: Quizzes
+ * 2%: Meeting Attendance
 
 **Note:** For project meetings, every group must meet 3 times throughout the quarter:
  1. Before the project proposal deadline to discuss and validate the project idea. This can be with any TA.
