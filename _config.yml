@@ -59,7 +59,7 @@ course:
     venue: '<a href="https://canvas.stanford.edu/courses/125215/external_tools/5384">Zoom (access via "Zoom" tab of Canvas)</a>'
     piazza: &pz 'https://piazza.com/class/kf0h64h1gem56g'
     queuestatus:
-        url: &qs 'https://queuestatus.com/queues/515'
+        url: &qs 'https://queuestatus.com/queues/1147'
         name: 'CS230 (2020 Fall)'
     canvas: 'https://canvas.stanford.edu'
     midterm_time: ''
