@@ -185,7 +185,7 @@ course:
           type: TA
           url: https://sharonzhou.me/
           image: sharon.png
-          zoom_id: ''
+          zoom_id: 9332820016
           calendly: https://calendly.com/cs230fall2020/sharon-project-oh
         - name: Divyansh Garg
           type: TA

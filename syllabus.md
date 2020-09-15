@@ -390,7 +390,7 @@ micro_nav: false
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with your assigned TA between 5/23 and 6/9 (before class) to discuss your final project report.</strong>
+                <strong>Meet with your assigned TA between 11/2 and 11/17 (before class) to discuss your final project report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
