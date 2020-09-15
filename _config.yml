@@ -1,7 +1,7 @@
 # Temporary GitPage Host setup
 title: CS230 Deep Learning
-baseurl: "/cs230-2020-spring"
-repository: "vineetk/cs230-2020-spring"
+baseurl: "/cs230-2020-fall"
+repository: "cs230-stanford/website-fall-2020"
 
 # Theme settings
 doks:
@@ -54,19 +54,19 @@ permalink: /:title/
 
 # Course logistics
 course:
-    quarter: 2020 Spring
-    time: Tue 9:00 AM - 10:20 AM
-    venue: '<a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom (access via "Zoom" tab of Canvas)</a>'
-    piazza: &pz 'https://piazza.com/class/k8jbpjv3nd3lk'
+    quarter: 2020 Fall
+    time: Tue 8:30 AM - 9:50 AM
+    venue: '<a href="https://canvas.stanford.edu/courses/125215/external_tools/5384">Zoom (access via "Zoom" tab of Canvas)</a>'
+    piazza: &pz 'https://piazza.com/class/kf0h64h1gem56g'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
-        name: 'CS230 (2020 Spring)'
+        name: 'CS230 (2020 Fall)'
     canvas: 'https://canvas.stanford.edu'
+    midterm_time: ''
     project_timeline:
-        proposal: 2020-04-22T23:59:00-07:00
-        milestone1: 2020-05-08T23:59:00-07:00
-        milestone2: 2020-05-24T23:59:00-07:00
-        poster_and_report: 2020-06-09T10:20:00-07:00
+        proposal: 2020-09-30T23:59:00-07:00
+        milestone: 2020-10-30T23:59:00-07:00
+        poster_and_report: 2020-11-17T9:50:00-07:00
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
@@ -128,7 +128,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/117317/external_tools/5384'
+            url: 'https://canvas.stanford.edu/courses/125215/external_tools/5384'
             external_url: true
         queuestatus:
             icon:
@@ -152,47 +152,56 @@ course:
           type: Coordinator
           url: http://www.linkedin.com/in/swatidube/
           image: swati.jpg
-        - name: Vineet Kosaraju
-          type: Head TA
-          url:
-          image: vineet.png
-          url: https://vineetkosaraju.com/
-          zoom_id: 2698484179
-          calendly: https://calendly.com/cs230spring2020/vineet-project-oh
-    ta:
-        - name: Jo Chuang
-          type: On-campus TA
-          url: https://jochuang.com/
-          image: jo.jpg
-          zoom_id: 8543765436
-          calendly: https://calendly.com/cs230spring2020/jo-project-oh
+        - name: Amelie Byun
+          type: Coordinator
+          url: https://www.linkedin.com/in/aebyun/
+          image: amelie.jpg
         - name: Shahab Mousavi
-          type: On-campus TA
+          type: Head TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
-          calendly: https://calendly.com/cs230spring2020/shahab-project-oh
+          calendly: https://calendly.com/cs230fall2020/shahab-project-oh
+    ta:
+        - name: Jo Chuang
+          type: TA
+          url: https://jochuang.com/
+          image: jo.jpg
+          zoom_id: 8543765436
+          calendly: https://calendly.com/cs230fall2020/jo-project-oh
         - name: Advay Pal
-          type: On-campus TA
+          type: TA
           url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
-          calendly: https://calendly.com/cs230spring2020/advay-project-oh
-        - name: Pranav Rajpurkar
-          type: On-campus TA
-          url: https://rajpurkar.github.io/
-          image: pranav.jpg
-          zoom_id: 7586009555
-          calendly: https://calendly.com/cs230spring2020/pranav-project-oh
-        - name: Shubhang Desai
-          type: On-campus TA
-          url: https://shubhangdesai.github.io/
-          image: shubhang.png
-          zoom_id: 5399479266
-          calendly: https://calendly.com/cs230spring2020/shubhang-project-oh
+          calendly: https://calendly.com/cs230fall2020/advay-project-oh
         - name: Jonathan Lingjie Li
-          type: On-campus TA
+          type: TA
           url: https://www.linkedin.com/in/jonathan-li-23024679/
           image: jonathan.png
           zoom_id: 5824914282
-          calendly: https://calendly.com/cs230spring2020/jonathan-project-oh
+          calendly: https://calendly.com/cs230fall2020/jonathan-project-oh
+        - name: Sharon Zhou
+          type: TA
+          url: https://sharonzhou.me/
+          image: sharon.png
+          zoom_id: ''
+          calendly: https://calendly.com/cs230fall2020/sharon-project-oh
+        - name: Divyansh Garg
+          type: TA
+          url: https://divyanshgarg.com/
+          image: div.jpg
+          zoom_id: 4433698960
+          calendly: https://calendly.com/cs230fall2020/div-project-oh
+        - name: Avoy Datta
+          type: TA
+          url: https://www.linkedin.com/in/avoy-datta/
+          image: avoy.jpg
+          zoom_id: 3287819697
+          calendly: https://calendly.com/cs230fall2020/avoy-project-oh
+        - name: Tanay Kothari
+          type: TA
+          url: https://www.linkedin.com/in/tankots/
+          image: tanay.png
+          zoom_id: ''
+          calendly: https://calendly.com/cs230fall2020/tanay-project-oh

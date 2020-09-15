@@ -52,22 +52,22 @@ Here's more information about the class grade:
 #### Breakdown
 
 Below is the breakdown of the class grade:
- * 50%: Final project (broken into proposal, milestone 1, milestone 2, final report, final video, and meeting attendance)
- * 35%: Programming assignment
- * 15%: Quizzes
+ * 40%: Final project (broken into proposal, milestone, final report, final video, and meeting attendance)
+ * 25%: Midterm
+ * 25%: Programming assignment
+ * 10%: Quizzes
 
-**Note:** For project meetings, every group must meet 4 times throughout the quarter:
+**Note:** For project meetings, every group must meet 3 times throughout the quarter:
  1. Before the project proposal deadline to discuss and validate the project idea. This can be with any TA.
- 2. Before the first milestone deadline, *with your assigned project TA*.
- 3. Before the second milestone deadline, *with your assigned project TA*.
- 4. Before the final report deadline, again with your assigned project TA.
+ 2. Before the milestone deadline, *with your assigned project TA*.
+ 3. Before the final report deadline, again with your assigned project TA.
 
-Every student is allowed to and encouraged to meet more with the TAs, but only the 4 meetings above count towards the final participation grade.
+Every student is allowed to and encouraged to meet more with the TAs, but only the 3 meetings above count towards the final participation grade.
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/113684). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **978X37**.
+You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/185572). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **MP7PZZ**.
 
 #### Late assignments
 Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student.
@@ -76,11 +76,7 @@ Each student will have a total of ten free late (calendar) days to use for progr
 
 **For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late day being used per student.
 
-Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than **three days after its due date**. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
-
-**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
-- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
-- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>
+Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
 
 #### Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).

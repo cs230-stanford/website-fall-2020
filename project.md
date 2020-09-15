@@ -45,9 +45,9 @@ Notes on a few specific types of projects:
 
 This section contains the detailed instructions for the different parts of your project.
 
-**Submission:** We will be using Gradescope for submission of all five parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
+**Submission:** We will be using Gradescope for submission of all four parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
 
-**Evaluation:** We will not be disclosing the breakdown of the 50% that the final project is worth amongst the different parts, but the video and final report will combine to be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
+**Evaluation:** We will not be disclosing the breakdown of the 40% that the final project is worth amongst the different parts, but the video and final report will combine to be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
 
  * The technical quality of the work. (I.e., Does the technical material make sense? Are the things tried reasonable? Are the proposed algorithms or applications clever and interesting? Do the authors convey novel insight about the problem and/or algorithms?)
  * Significance. (Did the authors choose an interesting or a “real" problem to work on, or only a small “toy" problem? Is this work likely to be useful and/or have impact?)
@@ -90,58 +90,40 @@ We link one past example of a good project proposal [here](/winter2020/example_p
 | **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal.
 | **Submission** | Submit on Gradescope (see description under deadline for instructions)
 
-## Milestone #1
+## Milestone
 
-**Deadline:** {{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.long_date_format }}
+**Deadline:** {{ site.course.project_timeline.milestone | date: site.course.project_timeline.long_date_format }}
 
-By the first milestone, you should have completed the following:
+The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
-* Obtained at least one dataset on your preferred work environment (locally, AWS, Colab)
-* Be able to access the data in Python via some dataloader
-* Run a very simple end-to-end baseline model. This baseline does not have to be complicated - eg:
-	* A logistic regression model that operates on simple features
-	* Default models included in Tensorflow/Pytorch official packages
-	* Public implementations of GANs or Wavenets
+<table>
+    <tbody>
+        <tr>
+        	<td><b>Format</b></td>
+            <td>Your milestone should be <b>at most 3 pages</b>, excluding references. Similar to to the proposal, it should include:
+            	<ul>
+					<li>Title, Author(s)</li>
+					<li>Introduction: this section introduces your project, why it’s important or interesting.</li>
+					<li>Make sure to submit your code (or Github URL). Do not submit your dataset. It is okay to include a few samples though.</li>
+					<li>Details on the dataset</li>
+					<li>Approach: Describe the current steps you have done. If you are implementing an algorithm, you should have started implementation and ideally have some early stage results. Describe precisely the remaining work you expect to complete. We ideally would like to see a model description and a training strategy (loss function for instance).</li>
+				</ul>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Grading</b></td>
+            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone.</td>
+        </tr>
+        <tr>
+            <td><b>Submission</b></td>
+            <td>Submit on Gradescope. Code can either be a link to a github repository, or the relevant files themselves.</td>
+        </tr>
+    </tbody>
+</table>
 
-We will look for the following in the writeup:
+## Video
 
-* At least **2 pages of content, but no more than 3** (not including references)
-* Thorough description of your **dataset**: basic statistics - class distributions, general data size, number of samples, as well as implications these properties will have on the project.
-* Description of your overall task. Include a background section introducing previous approaches.
-* Results from your **baseline**. Include hard data or results (accuracy, F1 score, generated examples etc)
-* Concrete next steps for the next milestone. These could be one of the following:
-	* Specific improvements to the existing baseline
-	* Applying a different approach to your task in a novel way, and adapting public code to work with your project
-	* Implementing a particular paper from scratch
-	* Collecting new data and building a different, more useful dataset
-	* Note: feel free to list multiple new directions, but please select one approach in particular to focus on. Explain why this approach was chosen, as well as specific subgoals required. Work with your Project TA to establish clear goals.
-
-## Milestone #2
-
-**Deadline:** {{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.long_date_format }}
-
-By the first milestone, you should have attempted an approach as described above and identified further steps. This second milestone will be an expansion of the first one. Broadly, we will be looking for the following:
-
-* Good motivation for the project and an explanation of the problem statement
-* Literature review describing task and prior approaches in detail
-* A description of the dataset, describing basic statistics and their implications
-* Detailed and clear explanation of the selected methodology and approach
-* Working implementation (code) submitted
-* Experiments or results using concrete quantitative metrics or qualitative analysis comparing your new method against preexisting baselines or previous milestone results. 
-* Analysis on whether the results are as expected 
-* Concrete next steps for the final report. This should be one final effort at improving your project. Explain why this approach was chosen, as well as specific subgoals required.
-
-Think of this milestone as a slightly shorter / less comprehensive version of the final report. Please follow these guidelines:
-
-| **Format** | The writeup should be **at least 3 pages** and **at most 4 pagees** of content (not including references). In addition, you can include an optional **appendix**. This appendix can be of **max 4 pages of content**. If you do include an appendix, it should **only** contain tables and figures and their captions, no other paragraphs. During grading we'll focus mostly on the main writeup and may or may not look at the appendix. You should include all of the most important information, figures, and tables in the main writeup.
-| **Code** | Please include a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries. Your code should be easily runnable without much tinkering and should show either novel implementations or substantial modifications of preexisting codebases.
-| **Grading** | We'll be looking for detailed and clear descriptions for the following categories: problem statement, previous approaches, dataset, methods, results, analysis, next steps. Make sure to address the specific points mentioned above for each of these categories.
-| **Submission** | Submit on Gradescope.
-
-
-## Video Report
-
-**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(Two late days allowed - see below)**
+**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
 Your video is required to be a 3-4 minute summary of your work. **There is a hard limit of 4 minutes, and TAs will not watch a video beyond the 4 minute mark.** Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
 
@@ -155,13 +137,9 @@ We recommend searching for conference presentation sessions (AAAI, Neurips, ECCV
 
 You can find a sample video from a previous iteration of the class [here](https://www.youtube.com/watch?v=HmDT3NE3dck)
 
-**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
-- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
-- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>
-
 ## Final Report
 
-**Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(Two late days allowed - see below)**
+**Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
 The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 
@@ -180,7 +158,3 @@ The final report should contain a comprehensive account of your project. We expe
  | **Code** | You must submit your code on Gradescope. We will open a submission for submitting code. Please also include a link to a Github repository with the code for your final project if you have one. You do not have to include the data or additional libraries. Code must be organized/readable for full credit.
  | **Grading** | The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in CS230, the novelty of the problem, and the technical quality and significance of the work.
  | **Submission** | Submit on Gradescope.
-
-**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
-- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
-- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>

@@ -15,13 +15,11 @@ micro_nav: false
 ---
 
 ## What is the grading breakdown?
-Below is the breakdown of class grade:
- * 50%: Final project
- * 35%: Programming assignment
- * 15%: Quizzes
-
-## Will there be a midterm exam?
-No, there will not be a midterm this quarter. Instead, more emphasis will be placed on the project.
+Below is the breakdown of the class grade:
+ * 40%: Final project (broken into proposal, milestone, final report, final video, and meeting attendance)
+ * 25%: Midterm
+ * 25%: Programming assignment
+ * 10%: Quizzes
 
 ## Will there be a poster session?
 No, there will not be a poster session this quarter. We are looking into other alternatives for a remote poster session though.
@@ -30,21 +28,17 @@ No, there will not be a poster session this quarter. We are looking into other a
 Yes, there will still be sections. Check piazza for information about logistics.
 
 ## How do I join lectures?
-Lectures will be held 9-10:20AM (PST) over Zoom. You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
-
-## Can I get a letter grade?
-All grading this quarter will be done on a S/NC scale (Satisfactory / No Credit). In rare cases you may receive an unofficial grade (for example if you previously took the class Incomplete and are re-taking a component this quarter). If this applies to you make a private post on Piazza.
+Lectures will be held 8:30-9:50AM (PST) over Zoom. You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
 
 ## How is the final project graded?
 The final project grade will incorporate the following components:
- * Grade on 5 deliverables
- * Meeting attendance/participation for 4 TA meetings
+ * Grade on 4 deliverables
+ * Meeting attendance/participation for 3 TA meetings
 
 ## What are the deliverables as part of the final project?
 The project has main deliverables:
  * Proposal
- * Milestone #1
- * Milestone #2
+ * Milestone
  * Final video
  * Final report
 

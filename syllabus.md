@@ -11,8 +11,8 @@ micro_nav: false
 
 ## Announcements
 - **<span style='background-color: rgba(246,208,0,0.99);'>Please check out Piazza for an important announcement regarding revised final project deadlines.</span>**
-- Please check out the [FAQ](/faq) for a list of changes to the course for the remote, spring offering.
-- Please join [piazza](https://piazza.com/class/k8jbpjv3nd3lk) during the first week. This is where the majority of course announcements will be found.
+- Please check out the [FAQ](/faq) for a list of changes to the course for the remote offering.
+- Please join [piazza](https://piazza.com/class/kf0h64h1gem56g) during the first week. This is where the majority of course announcements will be found.
 
 ## Syllabus
 
@@ -34,7 +34,7 @@ micro_nav: false
     <tbody>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 04/07 </td>
+            <td> 09/15 </td>
             <td>
                 <strong>Topics:</strong> <a href="/spring2020/lecture1.pdf">(slides)</a>
                 <ul>
@@ -44,7 +44,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                No online modules. If you are enrolled in CS230, you will receive an email on 04/07 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
+                No online modules. If you are enrolled in CS230, you will receive an email on 09/15 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
             </td>
             <td>
                 No assignments.
@@ -57,7 +57,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 04/14 </td>
+            <td> 09/22 </td>
             <td>
                 <strong>Topics: </strong>Deep Learning Intuition <a href="/spring2020/lecture2.pdf">(slides)</a>
             </td>
@@ -86,7 +86,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 04/21 </td>
+            <td> 09/29 </td>
             <td>
                 <strong>Topics:</strong> Adversarial examples - GANs <a href="/spring2020/lecture3.pdf">(slides)</a>
                 <ul>
@@ -122,7 +122,7 @@ micro_nav: false
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with any TA between 4/06 and 4/22 to discuss your proposal.</strong>
+                <strong>Meet with any TA between 9/15 and 9/30 to discuss your proposal.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
@@ -139,7 +139,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td> 04/28 </td>
+            <td> 10/06 </td>
             <td>
                 <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
             </td>
@@ -172,7 +172,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 05/05 </td>
+            <td> 10/13 </td>
             <td>
                 <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
                 <a href="/spring2020/lecture5_guest.pdf">(guest slides)</a>
@@ -187,33 +187,17 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST, WED 5/6 (due to Coursera downtime)):</strong>
+                <strong>Quizzes (due at 9am PST):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST, WED 5/6 (due to Coursera downtime)):</strong>
+                <strong>Programming Assignments (due at 9am PST):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
             </td>
-        </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #2</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-1">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with your assigned TA between 4/23 and 5/08 to discuss your first milestone report.</strong>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone #1 Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-1">Instructions</a></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
@@ -222,7 +206,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td> 05/12 </td>
+            <td> 10/20 </td>
             <td>
                 <strong>Topics:</strong> Deep Learning Strategy (no slides)
                 <br>
@@ -253,7 +237,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 05/19 </td>
+            <td> 10/27 </td>
             <td>
                 <strong>Topics:</strong> Interpretability of Neural Networks
                 <a href="/spring2020/lecture7.pdf">(slides)</a>
@@ -279,19 +263,29 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #3</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-2">Instructions</a></td>
+        <tr style="background-color:#ffcece" id="midterm">
+            <td><strong>Midterm</strong></td>
+            <td><strong>{{ site.course.midterm_time }}</strong></td>
             <td></td>
             <td>
-                <strong>Meet with your assigned TA between 5/09 and 5/24 to discuss your second milestone report.</strong>
+                Midterm details TBD
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr style="background-color:#ffb7bf">
+            <td><strong>Project Meeting #2</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone">Instructions</a></td>
+            <td></td>
+            <td>
+                <strong>Meet with your assigned TA between 10/1 and 10/30 to discuss your milestone report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone #2 Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-2">Instructions</a></td>
+            <td><strong>Project Milestone Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone">Instructions</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -302,7 +296,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 05/26 </td>
+            <td> 11/03 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -336,7 +330,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td> 06/02 </td>
+            <td> 11/10 </td>
             <td>
                 <strong>Topics:</strong>
                 <a href="/spring2020/lecture9.pdf">(slides)</a>
@@ -374,7 +368,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td> 06/09 </td>
+            <td> 11/17 </td>
             <td>
                 <strong>Topics:</strong> <a href="/spring2020/lecture10.pdf">(slides)</a>
                 <ul>
@@ -391,7 +385,7 @@ micro_nav: false
             </td>
         </tr>
         <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #4</strong></td>
+            <td><strong>Project Meeting #3</strong></td>
             <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
