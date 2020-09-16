@@ -72,12 +72,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
                     <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST)</strong>
+                <strong>Programming Assignments (due at 8 30am PST)</strong>
                 <ul>
                     <li>Python Basics with Numpy (Optional)</li>
                     <li>Logistic Regression with a neural network mindset</li>
@@ -103,12 +103,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
                     <li>Building your Deep Neural Network: step by step</li>
@@ -151,12 +151,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
                     <li>Optimization Algorithms</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Initialization</li>
                     <li>Regularization</li>
@@ -187,13 +187,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
@@ -221,12 +221,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
                     <li>Deep convolutional models</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Convolutional Model: step by step</li>
                     <li>Convolutional Model: application</li>
@@ -250,12 +250,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition & Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Car Detection with YOLO</li>
                     <li>Art Generation with Neural Style Transfer</li>
@@ -316,11 +316,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -352,12 +352,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 8 30am PST):</strong>
                 <ul>
                     <li>Natural Language Processing and Word Embeddings</li>
                     <li>Sequence Models and Attention Mechanism</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 8 30am PST):</strong>
                 <ul>
                     <li>Operations on Word Vectors - Debiasing</li>
                     <li>Emojify!</li>
