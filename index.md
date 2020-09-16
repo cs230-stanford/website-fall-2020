@@ -84,3 +84,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 #### Honor code
 We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with. It is also an honor code violation to copy, refer to, or look at written or code solutions from a previous year, including but not limited to: official solutions from a previous year, solutions posted online, and solutions you or someone else may have written up in a previous year. Furthermore, it is an honor code violation to post your assignment solutions online, such as on a public git repo.
+
+[The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code)
+
+[The Stanford Honor Code as it pertains to CS courses](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf)
