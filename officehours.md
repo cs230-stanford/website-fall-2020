@@ -16,7 +16,7 @@ micro_nav: false
 {% assign people = site.course.ta | concat: site.course.staff -%}
 {% for ta in people -%}
 {% unless ta.zoom_id == null -%}
-| {{ ta.name }} | [Click to book]({{ ta.calendly }}) | [{{ ta.zoom_id }}](https://stanford.zoom.us/j/{{ ta.zoom_id }}) |
+| {{ ta.name }} | [Click to book]({{ ta.calendly }}) | [{{ ta.zoom_id }}]({{ ta.zoom_link }}) |
 {% endunless -%}
 {% endfor %}
 

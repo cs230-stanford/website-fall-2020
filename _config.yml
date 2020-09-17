@@ -161,6 +161,7 @@ course:
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
+          zoom_link: https://stanford.zoom.us/j/9392472642
           calendly: https://calendly.com/cs230fall2020/shahab-project-oh
     ta:
         - name: Jo Chuang
@@ -168,40 +169,47 @@ course:
           url: https://jochuang.com/
           image: jo.jpg
           zoom_id: 8543765436
+          zoom_link: https://stanford.zoom.us/j/8543765436
           calendly: https://calendly.com/cs230fall2020/jo-project-oh
         - name: Advay Pal
           type: TA
           url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
+          zoom_link: https://stanford.zoom.us/my/advaypal?pwd=QmVwTUh4MnNoWkdVZlhtYjNGeUVSUT09
           calendly: https://calendly.com/cs230fall2020/advay-project-oh
         - name: Jonathan Lingjie Li
           type: TA
           url: https://www.linkedin.com/in/jonathan-li-23024679/
           image: jonathan.png
           zoom_id: 5824914282
+          zoom_link: https://stanford.zoom.us/j/5824914282?pwd=RmNreGc0bFpSRFVRUXU2VjlnTzM2dz09
           calendly: https://calendly.com/cs230fall2020/jonathan-project-oh
         - name: Sharon Zhou
           type: TA
           url: https://sharonzhou.me/
           image: sharon.png
           zoom_id: 9332820016
+          zoom_link: https://stanford.zoom.us/j/9332820016
           calendly: https://calendly.com/cs230fall2020/sharon-project-oh
         - name: Divyansh Garg
           type: TA
           url: https://divyanshgarg.com/
           image: div.jpg
           zoom_id: 4433698960
+          zoom_link: https://stanford.zoom.us/j/4433698960?pwd=V0hseTloMzBtRmpValRBZWRpWm02dz09
           calendly: https://calendly.com/cs230fall2020/div-project-oh
         - name: Avoy Datta
           type: TA
           url: https://www.linkedin.com/in/avoy-datta/
           image: avoy.jpg
           zoom_id: 3287819697
+          zoom_link: https://stanford.zoom.us/my/avoydatta?pwd=a0ZHV2hXZllwcTh4WFYvSWRoVFBpQT09
           calendly: https://calendly.com/cs230fall2020/avoy-project-oh
         - name: Tanay Kothari
           type: TA
           url: https://www.linkedin.com/in/tankots/
           image: tanay.png
-          zoom_id: ''
+          zoom_id: 4065573304
+          zoom_link: https://stanford.zoom.us/j/4065573304?pwd=UFJkVjNTR1ArREVCWmhNcGMvMTc5dz09
           calendly: https://calendly.com/cs230fall2020/tanay-project-oh
