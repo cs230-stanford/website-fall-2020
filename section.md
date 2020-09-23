@@ -16,11 +16,11 @@ grid_navigation:
       cta: Read more
       url: /section/1
     - title: Section 2 (Week 2)
-      excerpt: Implementation First Steps - Codebases, Baselines, and AWS
+      excerpt: Understanding Gradient Descent and Backpropagation
       cta: Read more
       url: /section/2
     - title: Section 3 (Week 3)
-      excerpt: Understanding Gradient Descent and Backpropagation
+      excerpt: Implementation First Steps - Codebases, Baselines, and AWS
       cta: Read more
       url: /section/3
     - title: Section 4 (Week 4)
