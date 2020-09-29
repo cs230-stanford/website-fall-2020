@@ -88,12 +88,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 09/29 </td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs <a href="/spring2020/lecture3.pdf">(slides)</a>
-                <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
-                </ul>
-                <strong>Optional Readings:</strong>
-                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -141,7 +136,12 @@ micro_nav: false
             <td>Lecture&nbsp;4</td>
             <td> 10/06 </td>
             <td>
-                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
+                <strong>Topics:</strong> Adversarial examples - GANs <a href="/spring2020/lecture3.pdf">(slides)</a>
+                <ul>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
+                </ul>
+                <strong>Optional Readings:</strong>
+                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
