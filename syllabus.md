@@ -59,7 +59,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 09/22 </td>
             <td>
-                <strong>Topics: </strong>Deep Learning Intuition <a href="/spring2020/lecture2.pdf">(slides)</a>
+                <strong>Topics: </strong>Deep Learning Intuition <a href="/fall2020/lecture2.pdf">(slides)</a>
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
