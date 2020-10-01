@@ -61,6 +61,7 @@ course:
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/1147'
         name: 'CS230 (2020 Fall)'
+    nooks: &nks 'https://nooks.in/goto/ljci8fhSmAETzkzT?pwd=i9l0tQ'
     canvas: 'https://canvas.stanford.edu'
     midterm_time: ''
     project_timeline:
@@ -129,6 +130,11 @@ course:
             icon:
             content: Lecture videos (Canvas)
             url: 'https://canvas.stanford.edu/courses/125215/external_tools/5384'
+            external_url: true
+        nooks:
+            icon:
+            content: Nooks
+            url: *nks
             external_url: true
         queuestatus:
             icon:

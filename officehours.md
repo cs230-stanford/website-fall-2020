@@ -5,7 +5,7 @@ comments: false
 
 title: Office Hours
 description: Times and locations may occasionally change each week; please check this page often.
-buttons: [project_appt_calendly, queuestatus]
+buttons: [project_appt_calendly, nooks]
 micro_nav: false
 ---
 
@@ -20,7 +20,9 @@ micro_nav: false
 {% endunless -%}
 {% endfor %}
 
-QueueStatus link for Homework OH: [{{ site.course.queuestatus.url }}]({{ site.course.queuestatus.url }})
+Nooks link for Homework OH: [{{ site.course.nooks }}]({{ site.course.nooks }})
+
+~~QueueStatus link for Homework OH: [{{ site.course.queuestatus.url }}]({{ site.course.queuestatus.url }})~~
 
 ## Google Calendar
 
