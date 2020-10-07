@@ -136,7 +136,7 @@ micro_nav: false
             <td>Lecture&nbsp;4</td>
             <td> 10/06 </td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs <a href="/spring2020/lecture3.pdf">(slides)</a>
+                <strong>Topics:</strong> Adversarial examples - GANs <a href="/fall2020/lecture4.pdf">(slides)</a>
                 <ul>
                     <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
                 </ul>
