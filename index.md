@@ -10,6 +10,7 @@ micro_nav: true
 - This quarter ({{ site.course.quarter }}), CS230 meets for in-class lecture {{ site.course.time}}, {{ site.course.venue }}.
 - All class communication happens on the [CS230 Piazza forum]({{ site.course.piazza }}). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [syllabus](/syllabus).
+- For general inquiries, please contact <{{ site.course.qa }}>.
 
 <!-- Course Staff -->
 {% include staff.html %}
