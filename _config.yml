@@ -63,6 +63,7 @@ course:
         name: 'CS230 (2020 Fall)'
     nooks: &nks 'https://nooks.in/goto/ljci8fhSmAETzkzT?pwd=i9l0tQ'
     canvas: 'https://canvas.stanford.edu'
+    qa: &qa 'cs230-qa@cs.stanford.edu'
     midterm_time: ''
     project_timeline:
         proposal: 2020-09-30T23:59:00-07:00
