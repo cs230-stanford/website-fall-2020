@@ -176,7 +176,7 @@ micro_nav: false
             <td>
                 <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
                 <a href="/spring2020/lecture5_guest.pdf">(guest slides)</a>
-                <a href="/spring2020/lecture5_main.pdf">(main slides)</a>
+                <a href="/fall2020/lecture5_main.pdf">(main slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -202,6 +202,18 @@ micro_nav: false
         <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Midterm Review</td>
+            <td> 10/20 12:00pm-1:20pm PT</td>
+            <td><strong>Past midterms:</strong>
+                <ul>
+                    <li>Fall 2018 Midterm <a href="/files/cs230exam_fall18.pdf">(without solutions)</a>, <a href="/files/cs230exam_fall18_soln.pdf">(with solutions)</a></li>
+                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19.pdf">(without solutions)</a>, <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
+                    <li>Fall 2019 Midterm <a href="/files/cs230exam_fall19.pdf">(without solutions)</a>, <a href="/files/cs230exam_fall19_soln.pdf">(with solutions)</a></li>
+                    <li>Winter 2020 Midterm <a href="/files/cs230exam_win20.pdf">(without solutions)</a>, <a href="/files/cs230exam_win20_soln.pdf">(with solutions)</a></li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -235,6 +247,13 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
+        <tr style="background-color:#ffcece" id="midterm">
+            <td><strong>Midterm</strong></td>
+            <td> <strong>10/21 00:00am - 10/22 11:59pm</strong></td>
+            <td></td>
+            <td> Time: 3 hours </td>
+            <td></td>
+        </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
             <td> 10/27 </td>
@@ -261,16 +280,6 @@ micro_nav: false
                     <li>Art Generation with Neural Style Transfer</li>
                     <li>Face Recognition</li>
                 </ul>
-            </td>
-        </tr>
-        <tr style="background-color:#ffcece" id="midterm">
-            <td><strong>Midterm</strong></td>
-            <td><strong>{{ site.course.midterm_time }}</strong></td>
-            <td></td>
-            <td>
-                Midterm details TBD
-            </td>
-            <td>
             </td>
         </tr>
         <tr style="background-color:#ffb7bf">
