@@ -176,7 +176,7 @@ course:
           url: https://jochuang.com/
           image: jo.jpg
           zoom_id: 8543765436
-          zoom_link: https://stanford.zoom.us/j/8543765436
+          zoom_link: https://stanford.zoom.us/j/8543765436?pwd=L0pPa3VpOTB0blhnMVBKNFlQOGg4dz09
           calendly: https://calendly.com/cs230fall2020/jo-project-oh
         - name: Advay Pal
           type: TA
